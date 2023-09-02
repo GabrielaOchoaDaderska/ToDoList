@@ -1,6 +1,6 @@
 # ToDoList
 
-```
+---
 Projekt zawiera dwie wersje listy zadań:
 
 1. ToDoList - ``podstawowa lista zadań działająca w terminalu``
